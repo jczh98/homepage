@@ -1,3 +1,1 @@
-# Neverfelly's Homepage
-
-A fork of [amphineko](https://github.com/Trumeet/Home)
+# jczh98's Homepage
